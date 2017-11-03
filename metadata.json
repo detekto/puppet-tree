@@ -1,0 +1,15 @@
+{
+  "name": "detekto-tree",
+  "version": "0.1.0",
+  "author": "detekto",
+  "summary": "Tree puppet module",
+  "license": "Apache-2.0",
+  "source": "https://github.com/detekto/puppet-tree",
+  "project_page": "https://github.com/detekto/puppet-tree",
+  "issues_url": "https://github.com/detekto/puppet-tree/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
